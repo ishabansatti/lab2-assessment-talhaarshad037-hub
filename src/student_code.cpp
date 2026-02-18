@@ -6,7 +6,7 @@ int getIntValue() {
     int var_int = 10;
     return var_int;
 }
-
+//test change
 float getFloatValue() {
     // Declare a variable var_float of type float and set its value to 10.75.
     //return var_float;
